@@ -39,5 +39,8 @@ namespace Solutions.Algorithms
             var minimal = levelDic.LastOrDefault().Value.Count;
             return minimal;
         }
+        
     }
+
 }
+
