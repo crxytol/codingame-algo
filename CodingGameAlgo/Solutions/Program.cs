@@ -18,7 +18,9 @@ namespace Solutions
 
             //OptimizeChange.Run();
 
-            KnowingQuestions.Run();
+            //KnowingQuestions.Run();
+
+            DancerForNPosition.Run();
 
             Console.ReadLine();
         }
